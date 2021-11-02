@@ -17,7 +17,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-namespace SibylSystem.NET.types
+namespace SibylSystem.NET.Types
 {
     public class CheckTokenResult
     {

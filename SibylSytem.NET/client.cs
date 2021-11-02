@@ -19,7 +19,7 @@
 
 using RestSharp;
 using System;
-using SibylSystem.NET.types;
+using SibylSystem.NET.Types;
 
 namespace SibylSystem.NET
 {
