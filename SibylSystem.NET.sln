@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SibylSytem.NET", "SibylSytem.NET\SibylSytem.NET.csproj", "{29E2D9AC-A6A8-44AC-8D96-EA205BDB9D80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SibylSystem.NET", "SibylSytem.NET\SibylSystem.NET.csproj", "{29E2D9AC-A6A8-44AC-8D96-EA205BDB9D80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E97F4A2-CE8A-4F4A-8922-81951B8D4407}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
